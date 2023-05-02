@@ -1,0 +1,10 @@
+.offer-container {
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    border: solid 1.5px rgb(154, 16, 50);
+    padding: 10px;
+}
+.offer-container p {
+    margin: 0;
+}
